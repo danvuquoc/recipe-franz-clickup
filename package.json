@@ -1,0 +1,14 @@
+{
+  "id": "clickup",
+  "name": "ClickUp",
+  "version": "1.0.0",
+  "description": "ClickUp brings your team together to plan, track, and collaborate on any project — all in one place.",
+  "main": "index.js",
+  "author": "Dan Vu Quoc <danvuquoc@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.clickup.com",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true
+  }
+}
